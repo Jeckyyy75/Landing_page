@@ -1,2 +1,2 @@
 # Landing_page
-Zacky &amp;
+Zacky
